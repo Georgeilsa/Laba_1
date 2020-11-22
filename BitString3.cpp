@@ -220,7 +220,7 @@ void file()
 	try
 	{
 		if (!file_out.is_open())throw"file isn't open";
-		file_out << "Çäàðîâà!!!";
+		file_out << "Ã‡Ã¤Ã Ã°Ã®Ã¢Ã !!!";
 	}
 	catch (const char* exception)
 	{
